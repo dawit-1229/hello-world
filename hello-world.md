@@ -1,7 +1,7 @@
 # Hello, world!
 
 ## About Me
--**Name:** 조다윗/Cho dawit
+-**Name:** 조다윗/Dawit Cho
 -**Major:** Business Administration
 
 ## A Piece of Music I Love
