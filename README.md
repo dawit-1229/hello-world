@@ -1,4 +1,4 @@
- # hello-world
+# hello-world
 
 Hi! I'm Dawit Cho, a Business Administration major at Hanyang University.
 
