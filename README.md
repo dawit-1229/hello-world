@@ -1,5 +1,5 @@
-# hello-world
+ # hello-world
 
-Hi! I'm Gildong Hong, a composition major at Hanyang University.
+Hi! I'm Dawit Cho, a Business Administration major at Hanyang University.
 
 This repository is for practicing Git, GitHub, and Markdown in*Musicology of Disease, Disability, and Suffering* (Fall 2026).
